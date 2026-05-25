@@ -1,4 +1,4 @@
-## 🚀 Api-Net-MVC
+## 🚀 Net-MVC-Api
 Exemplo de criação de API Asp.Net MVC5 utilizando banco de dados MySQL.
 
 #### O que você vai encontrar neste projeto
