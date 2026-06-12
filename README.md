@@ -1,7 +1,7 @@
 ## 🚀 Net-Mvc-Api
 Exemplo de criação de API .NET MVC5 utilizando banco de dados MySQL.
 
-#### O que você vai encontrar neste projeto
+#### 📋 O que você vai encontrar neste projeto
 | Tecnologia | Descrição |
 |-----------|-----------|
 | **Dicionário de Dados** | Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados |
